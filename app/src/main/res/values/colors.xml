@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="textColor">#FF000000</color>
+    <color name="buttonColor">#FFFFFFFF</color>
+    <color name="searchBar">#E2E3E5</color>
+    <color name="iconColor">#585858</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="backgroundColor">#F9F9F9</color>
+    <color name="namingColor">#212220</color>
+    <color name="colour">#868889</color>
+    <color name="text">#868889</color>
+    <color name="cartNumber">#E91E63</color>
+
+</resources>

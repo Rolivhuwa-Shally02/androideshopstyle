@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="shoppingCartIcon" type="id" />
+    <item name="cartBadgeTextView" type="id" />
+    <item name="addToCartButton" type="id" />
+    <item name="button" type="id" />
+</resources>
